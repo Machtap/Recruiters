@@ -9,7 +9,7 @@ Simple Rules for Recruiting me
 <li>Comp ranges are expressed in numerical terms. “Market rate”, “competitive” or similar language is not acceptable.</li>
 <li>Comp ranges should be constrained to 20% of the total value. Saying “$45-$145/hr” or “$85k/yr-$300k/yr” is not acceptable.</li>
 <li>While I'm always happy to submit a resume or sit an interview for an agreed role, due to the volume of requests I'm not able to engage in pre-interview personality assesments, coding excersizes or online questionnaires. If these items are part of an application or hiring process they should come after an initial meeting with a human at the hiring company</li>
-<li>You are contacting me, unsolicited. I am not obligated to reply to you.</li>
+<li>You are contacting me, unsolicited. I am not obligated to reply to you.  If the extent of your recruitment services involve directing me to a public job application page and following up with a lecture about not accepting counter-offers then you don't deserve a fee for placing me. </li>
 <li>If you have read all of these items completely and your message complies with them, please include the term ‘polymorphism’ in all caps in your subject line, this will drastically improve the chances of receiving a reply, or an introductory phone call.</li>
 </ol>
 
