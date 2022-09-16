@@ -14,3 +14,6 @@ Simple Rules for Recruiting me
 </ol>
 
 Thank you and good luck!
+
+
+![image](https://user-images.githubusercontent.com/413744/190584478-521e2bd9-a7c0-42fb-bafb-20614660e435.png)
